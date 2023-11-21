@@ -1,0 +1,7 @@
+.github/
+client/
+smart_contract/test/
+hardhat.config.js
+package.json
+package-lock.json
+README.md
